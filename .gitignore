@@ -1,4 +1,6 @@
 
+
+Ignore temporary Visual Studio files, build results, and
 ## files created by popular Visual Studio add-ons.
 ##
 ## Get the latest version from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
