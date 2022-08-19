@@ -10,7 +10,6 @@ if( number1 < 1)
 {
     Console.WriteLine("Третьей цифры нет");
 }
-
 else
 {
    int number2 = number % 10;
